@@ -6,7 +6,7 @@ class Navbar extends React.Component {
       <nav class="navbar navbar-light bg-light">
         <div class="container-fluid">
           <a class="navbar-brand" href="google.com">
-            Navbar
+            Counter-App
           </a>
         </div>
       </nav>
